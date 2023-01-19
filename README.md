@@ -184,7 +184,7 @@ After reassignment: Kim is 41
 ```
 
 While it may seem odd to have two variables pointing at the same object, this actually is a very
-common occurrence in a Java program.  For example, calling a method that take an object as a parameter
+common occurrence in a Java program.  For example, calling a method that takes an object as a parameter
 may result in multiple variables pointing at the same object.  
 
 
